@@ -19,8 +19,8 @@ text{
   display: block;
 }
 .shake{
-  font-size: 14px;
+  font-size: 12px;
   color: #666;
-  margin-top: 5px;
+  margin-top: 15px; margin-left: -15px;
   text-decoration: underline;
 }
