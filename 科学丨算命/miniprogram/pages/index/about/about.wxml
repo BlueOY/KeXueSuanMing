@@ -1,0 +1,6 @@
+<!--miniprogram/pages/index/about/about.wxml-->
+<view>
+  <text>科学丨算命 v1.0</text>
+  <!-- <text>联系方式：</text>
+  <text>软件最终解释权归作者所有。</text> -->
+</view>

@@ -1,0 +1,13 @@
+/* miniprogram/pages/index/about/about.wxss */
+page {
+  height: 100%;
+}
+
+view{
+  text-align: center;
+  vertical-align: middle;
+  width: 60%; margin: auto;
+}
+text{
+  display: block;
+}

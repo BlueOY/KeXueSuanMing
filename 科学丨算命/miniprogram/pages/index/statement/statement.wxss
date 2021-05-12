@@ -1,0 +1,10 @@
+/* miniprogram/pages/index/statement/statement.wxss */
+page {
+  height: 100%;
+}
+
+text{
+  text-align: center;
+  vertical-align: middle;
+  width: 60%; margin: auto;
+}
