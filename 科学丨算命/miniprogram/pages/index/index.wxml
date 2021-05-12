@@ -84,7 +84,7 @@
                 <view class="weui-cell__hd">
                     <!-- <image src="../../images/love.png" class="favorites"></image> -->
                 </view>
-                <view class="weui-cell__bd">声明</view>
+                <view class="weui-cell__bd">须知</view>
                 <view class="weui-cell__ft weui-cell__ft_in-access"></view>
             </navigator>
         </view>
